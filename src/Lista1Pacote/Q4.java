@@ -8,17 +8,17 @@ public class Q4 {
 		Scanner ler = new Scanner(System.in);
 
 		System.out.println("Entre com o numero:");
-		float n1 = ler.nextFloat();
+		int n1 = ler.nextInt();
 
 		System.out.println("Entre com o numero:");
-		float n2 = ler.nextFloat();
+		int n2 = ler.nextInt();
 
 		System.out.println("Entre com o numero:");
-		float n3 = ler.nextFloat();
+		int n3 = ler.nextInt();
 		
-		float media = (n1 + n2 + n3) / 3;
+		int media = (n1 + n2 + n3) / 3;
 		
-		System.out.printf("A média é =  %.2f\n", media);
+		System.out.println("A média é ="+ media);
 	}
 
 }
