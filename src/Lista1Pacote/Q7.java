@@ -16,10 +16,10 @@ public class Q7 {
 		float div = num1 / num2;
 
 		if (num2 == 0) {
-			Toolkit.getDefaultToolkit().beep();     
+			Toolkit.getDefaultToolkit().beep();
 		}
 
-	    System.out.println("O Resultado da divisão é:"+div);
+		System.out.println("O Resultado da divisão é:" + div);
 	}
 
 }
