@@ -1,4 +1,5 @@
 package Lista1Pacote;
+
 import java.util.Scanner;
 
 public class Q2 {
@@ -26,7 +27,7 @@ public class Q2 {
 
 		System.out.println("Entre com o nome completo:");
 		nomeCompleto = ler.nextLine();
-		
+
 		System.out.println("--------------------------------------------------------");
 		System.out.println("A Sua Idade:" + idade);
 
@@ -34,9 +35,9 @@ public class Q2 {
 
 		System.out.println("A Sua primeira letra do nome:" + primeiraLetraNome);
 
-        System.out.println("A Seu nome completo:" + nomeCompleto);
-	
-        System.out.println("--------------------------------------------------------");
+		System.out.println("A Seu nome completo:" + nomeCompleto);
+
+		System.out.println("--------------------------------------------------------");
 
 	}
 
