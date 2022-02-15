@@ -2,7 +2,7 @@ package Lista1Pacote;
 
 import java.util.Scanner;
 
-public class Q10 {
+public class Q10_PAReIMPAR {
 
 	public static void main(String[] args) {
 		Scanner ler = new Scanner(System.in);
