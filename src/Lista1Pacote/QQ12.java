@@ -2,7 +2,7 @@ package Lista1Pacote;
 
 import java.util.Scanner;
 
-public class QQ11 {
+public class QQ12 {
 
 	public static void main(String[] args) {
 		Scanner ler = new Scanner(System.in);
